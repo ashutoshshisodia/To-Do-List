@@ -1,2 +1,2 @@
 # To-Do-List
-used: HTML, CSS. jQuery
+used: HTML, CSS, jQuery
